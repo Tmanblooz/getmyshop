@@ -87,4 +87,4 @@ end
 
 # configure application default URL host
 Rails.application.routes.default_url_options[:host] =
-  "https://getmyshop-staging.herokuapp.com"
+  "https:/mall.astralprojects.co.za"
